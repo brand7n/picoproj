@@ -1,0 +1,14 @@
+{
+    "name": "brand7n/picoproj",
+    "description": "picoHP base project template",
+    "type": "project",
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/brand7n/picohp.git"
+    }],
+    "require-dev": {
+        "brand7n/picohp": "dev-main",
+        "phpstan/phpstan": "^2.1",
+        "phpstan/phpstan-strict-rules": "^2.0"
+    }
+}
